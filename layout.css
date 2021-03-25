@@ -1,0 +1,33 @@
+/* -- GLOBAL ---------------------------------------------------- */
+
+body {
+  background-color: #FFFFFF;
+  font-family: verdana, arial, tahoma, sans-serif;
+  font-size:larger;
+  line-height: 1.5em;
+  margin: 0px;
+  padding: 0px;
+  }
+
+.container {
+  color: #000000;
+  background: #FFFFFF;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container img {
+    border: 0px solid black;
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+
+    .container div {
+        border: 0px solid black;
+        width: 50%;
+        margin: auto;
+        display: block;
+        text-align: center;
+        padding-top: 5px;
+    }
